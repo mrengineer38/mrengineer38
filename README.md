@@ -29,3 +29,6 @@
 <p style="text-align:center;padding:5px;margin:5px;">&nbsp;<img align="center" style="text-align:center; border-radius=30px 20px 30px 20px;padding:5px;margin:5px"src="https://github-readme-stats.vercel.app/api?username=mrengineer38&show_icons=true&locale=en" alt="mrengineer38" /></p>
 
 <p style="text-align:center;padding:5px;margin:5px;"><img align="center" style="text-align:center;border-radius=15px 50px:margin:5px;padding:5px" src="https://github-readme-streak-stats.herokuapp.com/?user=mrengineer38&" alt="mrengineer38" /></p>
+
+
+<img src="https://github.com/mrengineer38/mrengineer38/blob/main/github-user-contribution.svg" alt="Snake animation" style="max-width: 100%;">
