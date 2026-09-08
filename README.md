@@ -1,18 +1,10 @@
-### Hi, I'm Mehmet — a software developer based in Turkey.
+### Hey, I'm Mehmet 👋
 
-I work mostly with Go and Linux systems, and lately I've been focused on virtualization — building a KVM/libvirt-based hypervisor management platform, along with the tooling around it (a mobile companion app, licensing, security hardening).
+I'm a software developer living in Turkey. These days most of my time goes into building a KVM/libvirt-based hypervisor management platform from scratch — backend, mobile companion app, security, licensing, all of it. I like understanding a system end to end, not just the parts that show.
 
-- 💬 Ask me about Linux, virtualization, or Docker
-- 🌐 I write at [mehmetbektas.engineer](https://mehmetbektas.engineer)
-- 📫 Reach me at **bilin_miyor@windowslive.com**
-
-#### Connect
-
-<p>
-<a href="https://linkedin.com/in/mehmet-emin-bektaş-454657161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com/mrmehmetbektas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/bilin_miyor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-</p>
+- 💬 Happy to talk about Linux, virtualization, or Docker
+- 🌐 [biryazilimci.com](https://biryazilimci.com)
+- 📫 mehmet.bektas38@outlook.com
 
 #### Languages & tools
 
